@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Kristy James' personal website
+title: Kristy James
 email: "'.'.join('kristy', 'p', 'james') + '@gmail.com'"
 description: > # this means to ignore newlines until "baseurl:"
   A growing website about interesting stuff I've been doing with
